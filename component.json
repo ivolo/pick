@@ -1,0 +1,16 @@
+{
+  "name": "pick",
+  "repo": "ivolo/pick",
+  "version": "0.0.1",
+  "description": "Picks keys from an object.",
+  "keywords": [
+    "pick",
+    "keys"
+  ],
+  "development": {
+    "component/assert": "*"
+  },
+  "scripts": [
+    "index.js"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pick",
+  "repository": "git://github.com/ivolo/pick.git",
+  "version": "0.0.1",
+  "description": "Picks keys from an object.",
+  "keywords": [
+    "pick",
+    "keys"
+  ],
+  "devDependencies": {
+    "mocha": "~1.14.0"
+  }
+}
